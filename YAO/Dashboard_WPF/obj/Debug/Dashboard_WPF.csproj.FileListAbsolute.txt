@@ -43,3 +43,26 @@ C:\Users\yasmi\Downloads\Modern Dashboard Using WPF\Dashboard_WPF\Dashboard_WPF\
 C:\Users\yasmi\Downloads\Modern Dashboard Using WPF\Dashboard_WPF\Dashboard_WPF\obj\Debug\Dashboard_WPF.csproj.CopyComplete
 C:\Users\yasmi\Downloads\Modern Dashboard Using WPF\Dashboard_WPF\Dashboard_WPF\obj\Debug\Dashboard_WPF.exe
 C:\Users\yasmi\Downloads\Modern Dashboard Using WPF\Dashboard_WPF\Dashboard_WPF\obj\Debug\Dashboard_WPF.pdb
+D:\ENSA\CoursS8\DotNET\YAO\YAO\Dashboard_WPF\bin\Debug\Dashboard_WPF.exe.config
+D:\ENSA\CoursS8\DotNET\YAO\YAO\Dashboard_WPF\bin\Debug\Dashboard_WPF.exe
+D:\ENSA\CoursS8\DotNET\YAO\YAO\Dashboard_WPF\bin\Debug\Dashboard_WPF.pdb
+D:\ENSA\CoursS8\DotNET\YAO\YAO\Dashboard_WPF\bin\Debug\MaterialDesignColors.dll
+D:\ENSA\CoursS8\DotNET\YAO\YAO\Dashboard_WPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\ENSA\CoursS8\DotNET\YAO\YAO\Dashboard_WPF\bin\Debug\MaterialDesignColors.pdb
+D:\ENSA\CoursS8\DotNET\YAO\YAO\Dashboard_WPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\ENSA\CoursS8\DotNET\YAO\YAO\Dashboard_WPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\ENSA\CoursS8\DotNET\YAO\YAO\Dashboard_WPF\obj\Debug\Dashboard_WPF.csproj.AssemblyReference.cache
+D:\ENSA\CoursS8\DotNET\YAO\YAO\Dashboard_WPF\obj\Debug\Dashboard_WPF.csproj.SuggestedBindingRedirects.cache
+D:\ENSA\CoursS8\DotNET\YAO\YAO\Dashboard_WPF\obj\Debug\MainWindow.g.cs
+D:\ENSA\CoursS8\DotNET\YAO\YAO\Dashboard_WPF\obj\Debug\App.g.cs
+D:\ENSA\CoursS8\DotNET\YAO\YAO\Dashboard_WPF\obj\Debug\Dashboard_WPF_MarkupCompile.cache
+D:\ENSA\CoursS8\DotNET\YAO\YAO\Dashboard_WPF\obj\Debug\Dashboard_WPF_MarkupCompile.lref
+D:\ENSA\CoursS8\DotNET\YAO\YAO\Dashboard_WPF\obj\Debug\App.baml
+D:\ENSA\CoursS8\DotNET\YAO\YAO\Dashboard_WPF\obj\Debug\MainWindow.baml
+D:\ENSA\CoursS8\DotNET\YAO\YAO\Dashboard_WPF\obj\Debug\Dashboard_WPF.g.resources
+D:\ENSA\CoursS8\DotNET\YAO\YAO\Dashboard_WPF\obj\Debug\Dashboard_WPF.Properties.Resources.resources
+D:\ENSA\CoursS8\DotNET\YAO\YAO\Dashboard_WPF\obj\Debug\Dashboard_WPF.csproj.GenerateResource.cache
+D:\ENSA\CoursS8\DotNET\YAO\YAO\Dashboard_WPF\obj\Debug\Dashboard_WPF.csproj.CoreCompileInputs.cache
+D:\ENSA\CoursS8\DotNET\YAO\YAO\Dashboard_WPF\obj\Debug\Dashboard_WPF.csproj.CopyComplete
+D:\ENSA\CoursS8\DotNET\YAO\YAO\Dashboard_WPF\obj\Debug\Dashboard_WPF.exe
+D:\ENSA\CoursS8\DotNET\YAO\YAO\Dashboard_WPF\obj\Debug\Dashboard_WPF.pdb

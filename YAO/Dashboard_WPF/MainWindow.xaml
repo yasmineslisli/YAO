@@ -152,7 +152,7 @@
                                 <TextBlock Foreground="Gray" FontSize="11" FontWeight="SemiBold" HorizontalAlignment="Left"><Bold Foreground="Black"><Run Text="Task2"/></Bold><Run Text=" - Description"/></TextBlock>
                                 <ProgressBar Value="25" Width="60" Height="4" BorderThickness="0" Foreground="LightCoral" Background="Gainsboro" Margin="340 0 0 0"/>
                                 <TextBlock Text="25%" FontSize="11" FontWeight="SemiBold" HorizontalAlignment="Right"/>
-                                
+
                             </DockPanel>
                             <Separator Background="#DDC7C0" Margin="0 15 0 0"/>
 
@@ -181,8 +181,17 @@
 
                 <TextBlock HorizontalAlignment="Left" FontSize="12" FontWeight="Bold" Margin="0 30 0 25"/>
             </StackPanel>
+
+
+
+            <materialDesign:ColorZone Grid.Column="4" Margin="30,0,10,0" CornerRadius="15 15 15 15" Height="630" Background="#DDC7C0" Foreground="Black" VerticalAlignment="Center">
+                <Grid>
+                    <Calendar Height="296" HorizontalAlignment="Center" Margin="0,19,0,0" Name="calendar1" VerticalAlignment="Top" Width="252" />
+                </Grid>
+               
+            </materialDesign:ColorZone>
             
-            <materialDesign:ColorZone Grid.Column="4" Margin="30,0,10,0" CornerRadius="15 15 15 15" Height="630" Background="#DDC7C0" Foreground="Black" VerticalAlignment="Center"/>
+
         </Grid>
     </materialDesign:Card>
 </Window>
