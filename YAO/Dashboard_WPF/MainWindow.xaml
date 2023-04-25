@@ -18,6 +18,10 @@
     <materialDesign:Card Background="{DynamicResource MaterialDesignPaper}" UniformCornerRadius="15" Margin="25" materialDesign:ShadowAssist.ShadowDepth="Depth4">
 
         <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0*"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="190"/>
                 <ColumnDefinition Width="37*"/>
@@ -26,7 +30,7 @@
                 <ColumnDefinition Width="300"/>
             </Grid.ColumnDefinitions>
 
-            <materialDesign:ColorZone Grid.Column="0" Height="626" CornerRadius="15 15 15 15" Background="#DDC7C0" Grid.ColumnSpan="2" Margin="10,0,12,0" VerticalAlignment="Center">
+            <materialDesign:ColorZone Grid.Column="0" Height="626" CornerRadius="15 15 15 15" Background="#DDC7C0" Grid.ColumnSpan="2" Margin="10,0,12,0" VerticalAlignment="Center" Grid.Row="1">
                 <StackPanel Margin="15">
                     <WrapPanel Width="176">
                         <Image RenderOptions.BitmapScalingMode="HighQuality" Source="images/logo.png" Height="50" Width="42"/>
@@ -104,7 +108,7 @@
 
 
 
-            <StackPanel Margin="30 12 0 0" Grid.Column="1" Grid.ColumnSpan="3">
+            <StackPanel Margin="30 12 0 0" Grid.Column="1" Grid.ColumnSpan="3" Grid.RowSpan="2">
 
                 <DockPanel Margin="0 12 5 0">
                     <TextBlock FontSize="15" FontWeight="Bold" Text="Hello Yasmine !" Width="154"/>
@@ -126,7 +130,7 @@
                     <TextBlock Text="RANDOM QUOTE" Foreground="Black" FontSize="12"  Margin="0 5 0 0"/>
 
                 </materialDesign:ColorZone>
-                <Button Style="{StaticResource MaterialDesignFlatButton}" materialDesign:RippleAssist.Feedback="#D4BAB7" Background="#D4BAB7" Foreground="black" materialDesign:ButtonAssist.CornerRadius="6" Margin="400 10 0 0" Width="auto" Height="30" HorizontalAlignment="Center">
+                <Button Style="{StaticResource MaterialDesignFlatButton}" materialDesign:RippleAssist.Feedback="#D4BAB7" Background="#D4BAB7" Foreground="black" materialDesign:ButtonAssist.CornerRadius="6" Margin="400 10 0 0" Width="auto" Height="30" HorizontalAlignment="Center" Click="Button_Click">
                     <WrapPanel>
                         <materialDesign:PackIcon Kind="AddCircle" VerticalAlignment="Center" Margin="0 0 10 0"/>
                         <TextBlock Text="Add new Task"/>
@@ -184,13 +188,13 @@
 
 
 
-            <materialDesign:ColorZone Grid.Column="4" Margin="30,0,10,0" CornerRadius="15 15 15 15" Height="630" Background="#DDC7C0" Foreground="Black" VerticalAlignment="Center">
+            <materialDesign:ColorZone Grid.Column="4" Margin="30,0,10,0" CornerRadius="15 15 15 15" Height="630" Background="#DDC7C0" Foreground="Black" VerticalAlignment="Center" Grid.Row="1">
                 <Grid>
                     <Calendar Height="296" HorizontalAlignment="Center" Margin="0,19,0,0" Name="calendar1" VerticalAlignment="Top" Width="252" />
                 </Grid>
-               
+
             </materialDesign:ColorZone>
-            
+
 
         </Grid>
     </materialDesign:Card>
